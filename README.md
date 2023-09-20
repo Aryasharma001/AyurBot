@@ -38,3 +38,6 @@ AyurBot excels at tackling complex medical questions, providing insights into on
 ## Disclaimer
 
 AyurBot is not a substitute for professional medical advice. Always consult with a healthcare professional for accurate diagnosis and treatment recommendations.
+
+## Demo Video:
+https://github.com/Aryasharma001/AyurBot/assets/98249716/45b7dd4d-763f-4b59-8675-7828f23cd023
