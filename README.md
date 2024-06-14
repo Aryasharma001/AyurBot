@@ -1,6 +1,6 @@
-# AyurBot - Your Medical Query Assistant
+# MedBot - Your Medical Query Assistant
 
-AyurBot is an AI-powered medical chatbot designed to provide accurate and reliable answers to your medical queries. It leverages state-of-the-art language models, including the LLAMA-7b model and the LLAMA-INDEX, to ensure that you receive the most up-to-date and evidence-based information.
+MedBot is an AI-powered medical chatbot designed to provide accurate and reliable answers to your medical queries. It leverages state-of-the-art language models, including the LLAMA-7b model and the LLAMA-INDEX, to ensure that you receive the most up-to-date and evidence-based information.
 
 ## Features
 
@@ -32,7 +32,7 @@ AyurBot is a versatile tool with applications in various domains:
 
 ## Complex Questions
 
-AyurBot excels at tackling complex medical questions, providing insights into ongoing debates and discussions in the medical field. It can handle intricate inquiries with ease.
+MedBot excels at tackling complex medical questions, providing insights into ongoing debates and discussions in the medical field. It can handle intricate inquiries with ease.
 
 
 ## Disclaimer
