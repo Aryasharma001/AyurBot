@@ -16,13 +16,13 @@ MedBot is an AI-powered medical chatbot designed to provide accurate and reliabl
 
 1. **Ask Your Question:** Simply input your medical query in natural language.
 
-2. **Processing:** AyurBot processes your query using its deep medical knowledge and understanding.
+2. **Processing:** MedBot processes your query using its deep medical knowledge and understanding.
 
 3. **Accurate Answers:** You receive precise and evidence-based answers to your medical questions.
 
 ## Real-Life Applications
 
-AyurBot is a versatile tool with applications in various domains:
+MedBot is a versatile tool with applications in various domains:
 
 - **Patients:** Seek guidance on symptoms, treatments, and general health-related questions.
 
@@ -37,7 +37,7 @@ MedBot excels at tackling complex medical questions, providing insights into ong
 
 ## Disclaimer
 
-AyurBot is not a substitute for professional medical advice. Always consult with a healthcare professional for accurate diagnosis and treatment recommendations.
+MedBot is not a substitute for professional medical advice. Always consult with a healthcare professional for accurate diagnosis and treatment recommendations.
 
 ## Demo Video:
 https://github.com/Aryasharma001/AyurBot/assets/98249716/45b7dd4d-763f-4b59-8675-7828f23cd023
